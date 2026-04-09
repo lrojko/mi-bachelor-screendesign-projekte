@@ -3,7 +3,7 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Xinyu Tao
     - Rahma Galbi
-teaserimage: tao-galbi-teaser.png
+teaserimage: tao-galbi-taeser.png
 gallery:
     - tao-galbi-desktop-nichtAngemeldet-überschneidung-beginn.png
     - tao-galbi-desktop-angemeldet-meineKurse.png
